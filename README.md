@@ -6,11 +6,11 @@ a marcropad
 im quite proud on making my macropad though i havent designed an casing for it yet. there is an issue about that, im unable to use fusion due to a muck up on signing in so im either going to make it on tinkercad and figure it out.
 
 the part list:
--xiao-RP2040-DIP
--SW_Push_45deg x16 (Cherry MX Switch)
--keycaps x16 (unsure at the moment)
--diode x16 (through hole diodes)
--RGB LED with integrated microcontroller
+- xiao-RP2040-DIP
+- SW_Push_45deg x16 (Cherry MX Switch)
+- keycaps x16 (unsure at the moment)
+- diode x16 (through hole diodes)
+- RGB LED with integrated microcontroller
 
 <img width="945" height="547" alt="image" src="https://github.com/user-attachments/assets/e4a00232-23a7-4459-870d-bfea831e8874" />
 
